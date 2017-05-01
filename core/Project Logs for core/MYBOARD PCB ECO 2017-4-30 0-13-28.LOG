@@ -1,0 +1,87 @@
+Change Component Footprint: Designator=P4 Old Footprint=MHDR1X2 New Footprint=JP1
+Change Component Footprint: Designator=P2 Old Footprint=MHDR1X3 New Footprint=HN1X3
+Change Component Footprint: Designator=P3 Old Footprint=MHDR1X3 New Footprint=HN1X3
+Added Component: Designator=J4(HDR2X10H)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J5(Mini-B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J6(Mini-B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K1(KF128-2P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K2(KF128-2P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1(HDR2X9)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(SOT23)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=DC_5V Pin=CN1-+
+Added Pin To Net: NetName=GND Pin=CN1---
+Added Pin To Net: NetName=3.3V Pin=J4-1
+Added Pin To Net: NetName=3.3V Pin=J4-2
+Added Pin To Net: NetName=TRST# Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=TDI Pin=J4-5
+Added Pin To Net: NetName=GND Pin=J4-6
+Added Pin To Net: NetName=TMS Pin=J4-7
+Added Pin To Net: NetName=GND Pin=J4-8
+Added Pin To Net: NetName=TCK Pin=J4-9
+Added Pin To Net: NetName=GND Pin=J4-10
+Added Pin To Net: NetName=NetJ4_11 Pin=J4-11
+Added Pin To Net: NetName=GND Pin=J4-12
+Added Pin To Net: NetName=TDO Pin=J4-13
+Added Pin To Net: NetName=GND Pin=J4-14
+Added Pin To Net: NetName=RESET# Pin=J4-15
+Added Pin To Net: NetName=GND Pin=J4-16
+Added Pin To Net: NetName=GND Pin=J4-18
+Added Pin To Net: NetName=DBGACK Pin=J4-19
+Added Pin To Net: NetName=GND Pin=J4-20
+Added Pin To Net: NetName=NetF1_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ5_3 Pin=J5-3
+Added Pin To Net: NetName=GND Pin=J5-5
+Added Pin To Net: NetName=NetF2_1 Pin=J6-1
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Added Pin To Net: NetName=NetJ6_3 Pin=J6-3
+Added Pin To Net: NetName=OTG_FS_ID Pin=J6-4
+Added Pin To Net: NetName=GND Pin=J6-5
+Added Pin To Net: NetName=NetK1_1 Pin=K1-1
+Added Pin To Net: NetName=NetK1_2 Pin=K1-2
+Added Pin To Net: NetName=NetK2_1 Pin=K2-1
+Added Pin To Net: NetName=NetK2_2 Pin=K2-2
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=3.3V Pin=P1-2
+Added Pin To Net: NetName=OV_CLK Pin=P1-3
+Added Pin To Net: NetName=OV_VSYNC Pin=P1-4
+Added Pin To Net: NetName=OV_SDA Pin=P1-5
+Added Pin To Net: NetName=OV_HREF Pin=P1-6
+Added Pin To Net: NetName=OV_D0 Pin=P1-7
+Added Pin To Net: NetName=OV_RESET Pin=P1-8
+Added Pin To Net: NetName=OV_D2 Pin=P1-9
+Added Pin To Net: NetName=OV_D1 Pin=P1-10
+Added Pin To Net: NetName=OV_D4 Pin=P1-11
+Added Pin To Net: NetName=OV_D3 Pin=P1-12
+Added Pin To Net: NetName=OV_D6 Pin=P1-13
+Added Pin To Net: NetName=OV_D5 Pin=P1-14
+Added Pin To Net: NetName=OV_PCLK Pin=P1-15
+Added Pin To Net: NetName=OV_D7 Pin=P1-16
+Added Pin To Net: NetName=OV_PWDN Pin=P1-17
+Added Pin To Net: NetName=5V_EN Pin=Q5-1
+Added Pin To Net: NetName=GND Pin=Q5-2
+Added Pin To Net: NetName=NetQ4_1 Pin=Q5-3
+Added Member To Class: ClassName=MYBOARD_04-Other Function Member=Component J4 Header 10X2
+Added Member To Class: ClassName=MYBOARD_04-Other Function Member=Component J5 MINI-USB-AB
+Added Member To Class: ClassName=MYBOARD_04-Other Function Member=Component J6 MINI-USB-AB
+Added Member To Class: ClassName=MYBOARD_04-Other Function Member=Component K1 KF128-2P
+Added Member To Class: ClassName=MYBOARD_04-Other Function Member=Component K2 KF128-2P
+Added Member To Class: ClassName=MYBOARD_03-CORE&SRAM Member=Component P1 Header 9X2
+Added Member To Class: ClassName=MYBOARD_05-PWR Member=Component Q5 2N7002K-T1
+Added Room: Name=MYBOARD_03-CORE&SRAM
+Added Room: Name=MYBOARD_04-Other Function
+Added Room: Name=MYBOARD_05-PWR

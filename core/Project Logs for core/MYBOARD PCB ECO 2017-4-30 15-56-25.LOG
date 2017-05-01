@@ -1,0 +1,32 @@
+Change Component Footprint: Designator=U4 Old Footprint=W25Q64CVSSIG New Footprint=SOIC-8
+Change Component Description : Designator=J5 Old Description=MINI USB 5pin SMT New Description=MINI USB AB 5pin SMT
+Change Component Description : Designator=J6 Old Description=MINI USB 5pin SMT New Description=MINI USB AB 5pin SMT
+Added Pin To Net: NetName=GND Pin=J5-MH1
+Added Pin To Net: NetName=GND Pin=J5-MH2
+Added Pin To Net: NetName=GND Pin=J5-MH3
+Added Pin To Net: NetName=GND Pin=J5-MH4
+Added Pin To Net: NetName=GND Pin=J6-MH1
+Added Pin To Net: NetName=GND Pin=J6-MH2
+Added Pin To Net: NetName=GND Pin=J6-MH3
+Added Pin To Net: NetName=GND Pin=J6-MH4
+Added Pin To Net: NetName=GND Pin=LED1-C
+Added Pin To Net: NetName=GND Pin=LED2-C
+Added Pin To Net: NetName=GND Pin=SW1-P$1
+Added Pin To Net: NetName=RESET# Pin=SW1-P$2
+Added Pin To Net: NetName=GND Pin=SW2-P$2
+Added Pin To Net: NetName=GND Pin=SW3-P$2
+Added Pin To Net: NetName=NetLED1_A Pin=LED1-A
+Added Pin To Net: NetName=NetLED1_A Pin=R32-1
+Added Net: Name=NetLED1_A
+Added Pin To Net: NetName=NetLED2_A Pin=LED2-A
+Added Pin To Net: NetName=NetLED2_A Pin=R60-1
+Added Net: Name=NetLED2_A
+Added Pin To Net: NetName=NetSW2_P$1 Pin=SW2-P$1
+Added Pin To Net: NetName=NetSW2_P$1 Pin=U1-46
+Added Net: Name=NetSW2_P$1
+Added Pin To Net: NetName=NetSW3_P$1 Pin=SW3-P$1
+Added Pin To Net: NetName=NetSW3_P$1 Pin=U1-47
+Added Net: Name=NetSW3_P$1
+Added Room: Name=MYBOARD_03-CORE&SRAM
+Added Room: Name=MYBOARD_04-Other Function
+Added Room: Name=MYBOARD_05-PWR
