@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetC41_1 Pin=C42-1
+Removed Pin From Net: NetName=AGND Pin=C42-2
+Removed Member From Class: ClassName=MYBOARD_05-PWR Member=C42
+Added Room: Name=MYBOARD_03-CORE&SRAM
+Added Room: Name=MYBOARD_04-Other Function
+Added Room: Name=MYBOARD_05-PWR

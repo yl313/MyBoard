@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U3-46
+Added Room: Name=MYBOARD_03-CORE&SRAM
+Added Room: Name=MYBOARD_04-Other Function
+Added Room: Name=MYBOARD_05-PWR

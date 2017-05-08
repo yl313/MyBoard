@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=TURN_T1 Pin=U1-28
+Removed Pin From Net: NetName=TURN_T2 Pin=U1-29
+Added Pin To Net: NetName=TURN_T2 Pin=U1-28
+Added Pin To Net: NetName=TURN_T1 Pin=U1-29
+Added Room: Name=MYBOARD_03-CORE&SRAM
+Added Room: Name=MYBOARD_04-Other Function
+Added Room: Name=MYBOARD_05-PWR

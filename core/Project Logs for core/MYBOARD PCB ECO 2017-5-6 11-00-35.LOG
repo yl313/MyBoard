@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=ADD[0..18] Member=D12
+Removed Member From Class: ClassName=ADD[0..18] Member=D13
+Removed Member From Class: ClassName=ADD[0..18] Member=D14
+Removed Member From Class: ClassName=ADD[0..18] Member=D15
+Change Component Footprint: Designator=C47 Old Footprint=CAPAE7053X56M New Footprint=C1206
+Change Component Comment : Designator=C47 Old Comment=10uF/25 New Comment=10uF
+Change component parameters. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=U7-9
+Added Member To Class: ClassName=MYBOARD_05-PWR Member=Component R58 Res3
+Added Room: Name=MYBOARD_03-CORE&SRAM
+Added Room: Name=MYBOARD_04-Other Function
+Added Room: Name=MYBOARD_05-PWR

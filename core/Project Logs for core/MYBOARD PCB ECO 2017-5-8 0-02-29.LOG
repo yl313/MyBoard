@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=TF_CS# Pin=U1-2
+Removed Pin From Net: NetName=DETECT_TF# Pin=U1-93
+Added Pin To Net: NetName=DETECT_TF# Pin=U1-91
+Added Pin To Net: NetName=TF_CS# Pin=U1-92
+Added Room: Name=MYBOARD_03-CORE&SRAM
+Added Room: Name=MYBOARD_04-Other Function
+Added Room: Name=MYBOARD_05-PWR

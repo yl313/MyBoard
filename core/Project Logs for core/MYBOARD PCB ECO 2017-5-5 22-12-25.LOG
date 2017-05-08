@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=U7-9
+Added Room: Name=MYBOARD_03-CORE&SRAM
+Added Room: Name=MYBOARD_04-Other Function
+Added Room: Name=MYBOARD_05-PWR
